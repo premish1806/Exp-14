@@ -49,6 +49,8 @@ int main() {
 ```
 <strong> Output: </strong>
 <br>
+![image](https://github.com/user-attachments/assets/4a9f2a03-95c0-4471-966b-6b1801fe326a)
+
 
 ## Program 2: Multiple Inheritance
 <strong> Code: </strong>
@@ -95,6 +97,8 @@ int main() {
 ```
 <strong> Output: </strong>
 <br>
+![image](https://github.com/user-attachments/assets/c99ec357-c70a-4a54-8920-ee5f822fe79a)
+
 
 ## Program 3: Multilevel Inheritance
 <strong> Code: </strong>
@@ -160,6 +164,7 @@ int main() {
 ```
 <strong> Output: </strong>
 <br>
+![image](https://github.com/user-attachments/assets/0172cc48-6ba4-4c2b-8108-337bf7328b6f)
 
 ## Program 4: Hierarchical Inheritance
 <strong> Code: </strong>
@@ -205,6 +210,8 @@ int main() {
 ```
 <strong> Output: </strong>
 <br>
+![image](https://github.com/user-attachments/assets/377f17fc-ada7-4a32-9174-f421c3cb5250)
+
 
 ## Conclusion:
 From these programs, we learned the basic concepts of different types of inheritance in C++. Single inheritance allows a derived class to use the properties of one base class. Multiple inheritance enables a class to inherit from multiple base classes. Multilevel inheritance shows a hierarchy of classes, and hierarchical inheritance allows one base class to be inherited by multiple derived classes.
