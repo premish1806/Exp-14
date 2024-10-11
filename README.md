@@ -88,9 +88,9 @@ public:
 
 int main() {
     AllInOne device;
-    device.printDocument();  // Inherited from Printer
-    device.scanDocument();   // Inherited from Scanner
-    device.faxDocument();    // Method of AllInOne class
+    device.printDocument();  
+    device.scanDocument();   
+    device.faxDocument();    
     return 0;
 }
 
@@ -150,13 +150,13 @@ private:
 
 int main() {
     ColoredRectangle myRectangle;
-    myRectangle.setDimensions(5, 10);  // Inherited from Shape
-    myRectangle.showDimensions();      // Inherited from Shape
+    myRectangle.setDimensions(5, 10); 
+    myRectangle.showDimensions();    
 
-    cout << "Area: " << myRectangle.area() << endl; // Inherited from Rectangle
+    cout << "Area: " << myRectangle.area() << endl; 
 
-    myRectangle.setColor("Blue");      // Method of ColoredRectangle class
-    myRectangle.showColor();           // Method of ColoredRectangle class
+    myRectangle.setColor("Blue");      
+    myRectangle.showColor();           
 
     return 0;
 }
